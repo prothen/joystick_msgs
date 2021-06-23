@@ -1,5 +1,5 @@
 # Current time stamp
-std_msgs/Time           stamp
+time                    stamp
 
 # Define modes of operation
 uint8                   INACTIVE=0
